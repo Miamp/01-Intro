@@ -1,0 +1,33 @@
+span {
+    color:deeppink;
+}
+
+p span.linea:hover{
+    font-weight: bold;
+    color: brown;
+}
+
+span#capital{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p#capital{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.pokemon{
+    color: dodgerblue;
+}
+
+.mas-evo{
+    color: lawngreen;
+}
+
+.evee{
+    font-size: 20px;
+}
+
+ul .evee{
+    color: orange;
+}
