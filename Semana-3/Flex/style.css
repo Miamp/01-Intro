@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.numero {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+    background-color: hotpink;
+}
+
