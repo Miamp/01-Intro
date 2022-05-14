@@ -26,11 +26,16 @@ body{
     align-self: center;
 }
 
-.letra{
-    width: 150px;
-    height: 200px;
+.contenedor2{
     flex-direction: column;
     justify-content: center;
     align-self: center;
+}
+.letra{
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
     background-color: darkmagenta;
+    border-color: antiquewhite;
 }
