@@ -1,0 +1,56 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    margin: 0;
+}
+nav {
+    padding-left: 30px;
+}
+
+h1{
+    margin: 0;
+}
+
+nav a {
+    font-family: 'Koulen', cursive;
+    font-size: 50px;
+    color: red;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+}
+
+.pregunta {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.user {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.boton {
+    width: 250px;
+    height: auto;
+    border: 2px solid gray;
+    display: flex;
+    justify-content: center;
+}
