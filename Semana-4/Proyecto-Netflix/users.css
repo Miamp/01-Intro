@@ -47,10 +47,15 @@ p {
     text-align: center;
 }
 
+.administrar {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
 .boton {
     width: 250px;
     height: auto;
     border: 2px solid gray;
-    display: flex;
-    justify-content: center;
 }
